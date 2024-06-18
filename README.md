@@ -1,5 +1,6 @@
 ## Hi there 👋
 
+My name is Abdu and would love to collaborate on any new projects!
 <!--
 **Twothemoon1/Twothemoon1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
